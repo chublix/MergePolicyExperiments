@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "Default name 0",
+    "info": "Default info 0"
+  },
+  {
+    "id": 1,
+    "name": "Default name 1",
+    "info": "Default info 1"
+  },
+  {
+    "id": 2,
+    "name": "Default name 2",
+    "info": "Default info 2"
+  },
+  {
+    "id": 3,
+    "name": "Default name 3",
+    "info": "Default info 3"
+  },
+  {
+    "id": 4,
+    "name": "Default name 4",
+    "info": "Default info 4"
+  }
+]
